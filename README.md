@@ -3,6 +3,11 @@ This project implements a simple chatbot using Google's Generative AI technology
 
 
 
+
+## Getting Started
+
+
+
 Technologies Used:
 
 
