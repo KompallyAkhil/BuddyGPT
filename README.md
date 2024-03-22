@@ -60,44 +60,70 @@ npm install
 5.Run the application:
 
 
+
 npm start
 
 
-Usage
+
+
+Usage:
+
 
 
 1.Enter your queries or text into the input field.
 
 
+
+
 2.Click the arrow button to send your input to the chatbot.
+
+
 
 
 3.The chatbot will generate a response based on the input and display it in the chat window.
 
 
 
+
 4.Conversations are displayed in a chat-like format, with user input on the left and bot responses on the right.
 
 
-Features
-
-Real-time conversation interface.
 
 
-Integration with Google's Generative AI for natural language responses.
+Features:
 
 
-Responsive design for use on various devices
+
+
+
+👉Real-time conversation interface.
+
+
+
+
+👉Integration with Google's Generative AI for natural language responses.
+
+
+
+
+👉Responsive design for use on various devices
+
 
 
 Contributions
 
 
 
+
+
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or fixes.
 
 
+
+
 Author
+
+
 
 
 KompallyAkhil
