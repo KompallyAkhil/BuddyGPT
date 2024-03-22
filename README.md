@@ -23,13 +23,13 @@ Technologies Used:
 Installation:
 
 
-bash
+
 1.Clone the repository:
 
 git clone https://github.com/your-username/chatbot.git
 
 
-bash
+
 2.Navigate to the project directory:
 
 
@@ -37,7 +37,7 @@ cd chatbot
 
 
 
-bash
+
 3.Install dependencies:
 
 
