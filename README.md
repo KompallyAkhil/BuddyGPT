@@ -59,9 +59,9 @@ npm install
 
 
 
-👉`Replace API_KEY variable in Bot.js with your API key.
+👉Replace API_KEY variable in Bot.js with your API key.
 
-bash
+
 5.Run the application:
 
 
