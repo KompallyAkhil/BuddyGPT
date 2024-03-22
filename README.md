@@ -26,8 +26,7 @@ Installation:
 
 1.Clone the repository:
 
-Copy code
-   git clone https://github.com/your-username/chatbot.git
+git clone https://github.com/your-username/chatbot.git
 
 
 
