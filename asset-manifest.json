@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BuddyGPT/static/css/main.407455ee.css",
+    "main.js": "/BuddyGPT/static/js/main.0710775a.js",
+    "static/js/453.0ca63735.chunk.js": "/BuddyGPT/static/js/453.0ca63735.chunk.js",
+    "static/media/final_keyword_header.width-1200.format-webp.webp": "/BuddyGPT/static/media/final_keyword_header.width-1200.format-webp.d202d35f44c6b6ab9039.webp",
+    "index.html": "/BuddyGPT/index.html",
+    "main.407455ee.css.map": "/BuddyGPT/static/css/main.407455ee.css.map",
+    "main.0710775a.js.map": "/BuddyGPT/static/js/main.0710775a.js.map",
+    "453.0ca63735.chunk.js.map": "/BuddyGPT/static/js/453.0ca63735.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407455ee.css",
+    "static/js/main.0710775a.js"
+  ]
+}
