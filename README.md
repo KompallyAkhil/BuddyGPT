@@ -28,6 +28,15 @@ Technologies Used:
 Installation:
 
 
+Copy code:
+
+
+
+    json-server --watch db.json --port 8000
+
+
+
+
 
 1.Clone the repository:
 
