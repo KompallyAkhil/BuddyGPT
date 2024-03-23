@@ -31,7 +31,7 @@ Installation:
 1.Clone the repository:
 
 
-Copy code:
+
 
 
 
