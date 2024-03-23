@@ -28,19 +28,18 @@ Technologies Used:
 Installation:
 
 
+1.Clone the repository:
+
+
 Copy code:
 
 
 
-    json-server --watch db.json --port 8000
+    git clone https://github.com/your-username/chatbot.git
 
 
 
 
-
-1.Clone the repository:
-
-git clone https://github.com/your-username/chatbot.git
 
 
 
