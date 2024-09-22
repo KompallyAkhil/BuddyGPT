@@ -28,17 +28,25 @@ Technologies Used:
 Installation:
 
 
-
 1.Clone the repository:
 
-git clone https://github.com/your-username/chatbot.git
+
+
+
+
+
+    git clone https://github.com/your-username/chatbot.git
+
+
+
+
 
 
 
 2.Navigate to the project directory:
 
 
-cd chatbot
+    cd chatbot
 
 
 
@@ -48,7 +56,7 @@ cd chatbot
 
 
 
-npm install
+    npm install
 
 
 4.Set up Google Generative AI API Key:
@@ -66,7 +74,7 @@ npm install
 
 
 
-npm start
+    npm start
 
 
 
